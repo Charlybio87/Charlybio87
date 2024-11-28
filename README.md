@@ -4,7 +4,6 @@
 
  Alumno Avanzado en Bioingeniería de la Universidad Nacional de San Juan, Argentina. 
  Si desean, quisiera compartirles sobre mi viaje y aprendizajes en tecnología<br/>
- Proximamente empezare la carrera de la Tecnicatura Superior en desarrollo web en la Univerisidad de Comahue, Argentina.<br/>
  ¡Actualmente estoy realizando la [Diplomatura en Programacion Wed Full Stack](<https://www.sceu.frba.utn.edu.ar/e-learning/detalle/diplomatura/3799/diplomatura-en-programacion-web-full-stack-turno-manana?id=999197073>) de la Universidad Tecnologica Nacional de Mar del Plata, Argentina.! <br/>
  Realice cursos en Java y Design UX/UI. Es un Mundo de Ida!!<br/>
 <br/>
